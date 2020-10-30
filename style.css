@@ -2,6 +2,10 @@ body{
     background-color: white;
 }
 
+.navbar{
+    border: none;
+}
+
 .btn{
     font-size: 15px;
     width: 70px;
@@ -44,4 +48,43 @@ body{
 .fa-user-circle:hover{
     color: rgb(70, 68, 68);
 }
+
+.container {
+    padding: 10px 15px;
+  }
+  
+.user{
+    text-align: center;
+    padding: 0 0.5rem;
+}
+
+span{
+    font-weight: bolder;
+}
+
+.crumbs{
+    padding: 1rem 4rem;
+}
+
+.fa-upload{
+    margin: 0 2rem;
+}
+
+.fa-sort{
+    margin: 0 2rem;
+}
+
+img{
+    border-radius: 1rem;
+}
+
+.caption{
+    padding: 0.5rem 0;
+}
+
+h3{
+    padding: 0 0.5rem;
+    font-size: 18px;
+}
+
 
